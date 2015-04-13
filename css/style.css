@@ -67,7 +67,6 @@ footer {
     text-align: center;
     border-top: 1px solid #aaa;
 }
-
 @media only screen and (max-width: 991px) {
     .category img {
         height: 300px;
